@@ -1,0 +1,2 @@
+# sway
+endeavouros-sway-config
